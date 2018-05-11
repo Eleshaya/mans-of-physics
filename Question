@@ -1,0 +1,10 @@
+public class Question
+{
+  private String question;
+  private String answer;
+  public Question(String _question, String _answer)
+  {
+    question = _question;
+    answer = _answer;
+  }
+}
